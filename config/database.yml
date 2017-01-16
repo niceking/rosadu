@@ -1,0 +1,16 @@
+default: &default
+  adapter: postgresql
+  encoding: unicode
+  pool: 5
+
+development:
+  <<: *default
+  database: rosadu_development
+
+test:
+  <<: *default
+  database: rosadu_test
+
+production:
+  <<: *default
+  database: roadu_production

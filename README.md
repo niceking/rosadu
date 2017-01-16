@@ -6,9 +6,9 @@ Rosalee and Pubudu are getting married! Rose is very excited about this!
 
 ### 1. Install a bunch of stuff
 
-(Ruby, and Ruby on Rails)[http://guides.railsgirls.com/install]
-(Git)[https://git-scm.com/book/en/v2/Getting-Started-Installing-Git]
-(Terminal)[https://www.iterm2.com/] - I can't remember what OS you're on Pubudu
+[Ruby, and Ruby on Rails](http://guides.railsgirls.com/install)
+[Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+[Terminal](https://www.iterm2.com/) - I can't remember what OS you're on Pubudu
 
 ### 2. Set up your local server
 
@@ -29,6 +29,7 @@ This will create a folder called 'rosadu' in your Documents folder. Browse to th
 Run
 
 `bundle install`
+
 `rake db:create`
 
 If you have made it this far without a problem I am extremely impressed!
@@ -69,13 +70,13 @@ The html you want to edit is located at app -> views -> pages
 
 The stylesheets you want to edit are located here app -> assets -> stylesheets
 
-I'm using scss instead of css because it's cleaner, there's a basic guide (here)[http://sass-lang.com/guide]
+I'm using scss instead of css because it's cleaner, there's a basic guide [here](http://sass-lang.com/guide)
 
 Muck around with these things, and if you have your rails server running, every time you refresh `localhost:3000` it should reflect your changes.
 
 ### 4. Updating!
 
-I don't know what your level of experience with git is, but (here)[https://try.github.io] is a nice tutorial to go through.
+I don't know what your level of experience with git is, but [here](https://try.github.io) is a nice tutorial to go through.
 
 Once you've made the changes you want to, please send me a pull request instead of pushing directly to master.
 
@@ -105,4 +106,4 @@ Open your web browser and go to
 
 https://github.com/niceking/rosadu
 
-Hopefully you'll see something about creating a pull request? If not, try changing my username (niceking) to your username. Follow the instructions on the web! 
+Hopefully you'll see something about creating a pull request? If not, try changing my username (niceking) to your username. Follow the instructions on the web!

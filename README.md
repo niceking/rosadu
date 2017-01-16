@@ -7,7 +7,9 @@ Rosalee and Pubudu are getting married! Rose is very excited about this!
 ### 1. Install a bunch of stuff
 
 [Ruby, and Ruby on Rails](http://guides.railsgirls.com/install)
+
 [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+
 [Terminal](https://www.iterm2.com/) - I can't remember what OS you're on Pubudu
 
 ### 2. Set up your local server

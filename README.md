@@ -92,3 +92,17 @@ Add only the files you want to add by running
 Commit the files
 
 `git commit -m 'a commit message goes here between the quotes'`
+
+Push
+
+`git push`
+
+Terminal might prompt you to set the upstream branch. Copy and paste the command they give you, run it, and then try pushing again. If you see 'Everything up-to-date' then it's all good!
+
+This part of the instructions are gonna get hazy cos I can't actually check the commands.
+
+Open your web browser and go to
+
+https://github.com/niceking/rosadu
+
+Hopefully you'll see something about creating a pull request? If not, try changing my username (niceking) to your username. Follow the instructions on the web! 
